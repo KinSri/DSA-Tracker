@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/KinSri/DSA-Tracker/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/KinSri/DSA-Tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/KinSri/DSA-Tracker/tree/main/0118-pascals-triangle/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/KinSri/DSA-Tracker/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/KinSri/DSA-Tracker/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -20,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/KinSri/DSA-Tracker/tree/main/0118-pascals-triangle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/KinSri/DSA-Tracker/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
