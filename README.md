@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/KinSri/DSA-Tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KinSri/DSA-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/KinSri/DSA-Tracker/tree/main/0118-pascals-triangle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KinSri/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KinSri/DSA-Tracker/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/KinSri/DSA-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KinSri/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KinSri/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
