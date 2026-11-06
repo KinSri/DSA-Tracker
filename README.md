@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KinSri/DSA-Tracker/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/KinSri/DSA-Tracker/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/KinSri/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0048-rotate-image](https://github.com/KinSri/DSA-Tracker/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/KinSri/DSA-Tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KinSri/DSA-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KinSri/DSA-Tracker/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/KinSri/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KinSri/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KinSri/DSA-Tracker/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/KinSri/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KinSri/DSA-Tracker/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/KinSri/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KinSri/DSA-Tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/KinSri/DSA-Tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
