@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/KinSri/DSA-Tracker/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/KinSri/DSA-Tracker/tree/main/0016-3sum-closest/) | Medium |
 | [0048-rotate-image](https://github.com/KinSri/DSA-Tracker/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/KinSri/DSA-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KinSri/DSA-Tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KinSri/DSA-Tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/KinSri/DSA-Tracker/tree/main/0075-sort-colors/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KinSri/DSA-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/KinSri/DSA-Tracker/tree/main/0118-pascals-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KinSri/DSA-Tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KinSri/DSA-Tracker/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
